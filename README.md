@@ -6,8 +6,8 @@
 
   
   
-
-```
-![Jeangyu's github stats](https://github-readme-stats.vercel.app/api?username=JeangyuHeo&show_icons=true)
-```
+  
+  
+  https://github-readme-stats.vercel.app/api?username=JeangyuHeo
+  
 
