@@ -7,7 +7,7 @@
   
   
 
-https://github-readme-stats.vercel.app/api?username=JeangyuHeo
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=JeangyuHeo
+```
+![Jeangyu's github stats](https://github-readme-stats.vercel.app/api?username=JeangyuHeo&show_icons=true)
+```
 
