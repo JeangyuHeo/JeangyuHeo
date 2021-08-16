@@ -2,7 +2,8 @@
 
 
 
-- 🌱 I’m currently learning DeepLearning with Pytorch
+🌱 I’m currently learning DeepLearning with Pytorch
+
 
 
 
